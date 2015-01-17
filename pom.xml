@@ -6,6 +6,7 @@
     <groupId>com.lazerycode.jmeter</groupId>
     <artifactId>launch-jmeter</artifactId>
     <version>1.0</version>
+	<helpUrl>https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/wiki/Advanced-Configuration</helpUrl>
     <name>run-jmeter-with-plugins-using-maven</name>
     <url>https://github.com/djangofan/run-jmeter-with-plugins-using-maven</url>
     <properties>
