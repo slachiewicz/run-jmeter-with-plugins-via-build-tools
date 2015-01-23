@@ -1,16 +1,26 @@
 // https://github.com/kulya/jmeter-gradle-plugin
 
 apply plugin: 'jmeter'
+apply plugin: 'java'
 
-    buildscript {
-        repositories {
-            mavenCentral()
-        }
-        dependencies {
-            classpath "com.github.kulya:jmeter-gradle-plugin:1.3.1-2.6"
-        }
+buildscript {
+    repositories {
+        mavenCentral()
     }
-	
-	jmeterRun.configure {
-    jmeterTestFiles = [file("src/test/jmeter/test1.jmx"), file("src/test/jmeter/test2.jmx"))]
+    dependencies {
+        classpath "com.github.kulya:jmeter-gradle-plugin:1.3.2-2.6"
+		classpath "org.codehaus.groovy:groovy:2.4.0"
+    }
+}
+
+jmeterRun.configure {
+    jmeterTestFiles = [file("src/test/jmeter/test1.jmx"), file("src/test/jmeter/test2.jmx")]
+	enableReports = true
+	jmeterIgnoreFailure = false
+	jmeterIgnoreError = false
+	maxHeapSize = "1200M"
+}
+
+jmeterEditor.configure {
+	maxHeapSize = "1200M"
 }

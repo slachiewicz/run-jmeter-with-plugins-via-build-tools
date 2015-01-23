@@ -1,4 +1,5 @@
 @ECHO off
-ECHO Not implemented yet.
+
+gradle jmeterEditor %1 %2 %3
 
 pause
