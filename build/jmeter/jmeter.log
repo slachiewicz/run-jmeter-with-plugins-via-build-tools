@@ -1,43 +1,66 @@
-2015/01/22 20:18:03 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_US 
-2015/01/22 20:18:03 INFO  - jmeter.JMeter: Copyright (c) 1998-2012 The Apache Software Foundation 
-2015/01/22 20:18:03 INFO  - jmeter.JMeter: Version 2.6 r1237317 
-2015/01/22 20:18:03 INFO  - jmeter.JMeter: java.version=1.7.0_71 
-2015/01/22 20:18:03 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
-2015/01/22 20:18:03 INFO  - jmeter.JMeter: os.name=Windows 8.1 
-2015/01/22 20:18:03 INFO  - jmeter.JMeter: os.arch=amd64 
-2015/01/22 20:18:03 INFO  - jmeter.JMeter: os.version=6.3 
-2015/01/22 20:18:03 INFO  - jmeter.JMeter: file.encoding=Cp1252 
-2015/01/22 20:18:03 INFO  - jmeter.JMeter: Default Locale=English (United States) 
-2015/01/22 20:18:03 INFO  - jmeter.JMeter: JMeter  Locale=English (United States) 
-2015/01/22 20:18:03 INFO  - jmeter.JMeter: JMeterHome=C:\Users\austenjt\IdeaProjects\run-jmeter-with-plugins-via-build-tools\build\jmeter 
-2015/01/22 20:18:03 INFO  - jmeter.JMeter: user.dir  =C:\Users\austenjt\IdeaProjects\run-jmeter-with-plugins-via-build-tools\build\jmeter 
-2015/01/22 20:18:03 INFO  - jmeter.JMeter: PWD       =C:\Users\austenjt\IdeaProjects\run-jmeter-with-plugins-via-build-tools\build\jmeter 
-2015/01/22 20:18:07 INFO  - jmeter.JMeter: IP: 192.168.56.1 Name: THORPC FullName: THORPC 
-2015/01/22 20:18:07 INFO  - jmeter.JMeter: search_paths=/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_monitors/2.6/265bc47ed0314049e43daaa891137f34330e9b5c/ApacheJMeter_monitors-2.6.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter/2.6/bc9b65783b3be57e56eb9cb40878faa8ce1889fa/ApacheJMeter-2.6.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.beanshell/bsh-core/2.0b4/495e25a99e29970ffe8ba0b1d551e1d1a9991fc1/bsh-core-2.0b4.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_http/2.6/bf298d76ea425eaee3ef25d763c85e8dcb0bd95/ApacheJMeter_http-2.6.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_junit/2.6/4882859f830f15aa89736289a5a65d37606b6f1/ApacheJMeter_junit-2.6.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_report/2.6/b39aca723efc62ce34a0492c99c8cdb0fa7bc4dc/ApacheJMeter_report-2.6.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_jms/2.6/80129a1cdf2feb638bb89726c5d3b195006a0415/ApacheJMeter_jms-2.6.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_ldap/2.6/8ede339c751d043da419d46c04355958e212c951/ApacheJMeter_ldap-2.6.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_functions/2.6/3a008f616210c01108faec49f5a0bafde5b342c2/ApacheJMeter_functions-2.6.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_jdbc/2.6/d1a7f1c82f48f48bdb3190b66d12f0b7b19c9311/ApacheJMeter_jdbc-2.6.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_java/2.6/70119bfd19f040f8e2b551f074f93a395413688f/ApacheJMeter_java-2.6.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_ftp/2.6/f6047676381d12bd0dd2dd660e9cade9e9f17e5d/ApacheJMeter_ftp-2.6.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_tcp/2.6/22c214d40c26f43e8ded8df44bf9f545908693bc/ApacheJMeter_tcp-2.6.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_mail/2.6/c4b503fe12754b9ee10fcf025923180b2c365afd/ApacheJMeter_mail-2.6.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_core/2.6/16e226df92cd8d53eed4ce952902e6a3c263dfb9/ApacheJMeter_core-2.6.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_components/2.6/f0af15f632a22b1c0bb928394232bd715c4abbf9/ApacheJMeter_components-2.6.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.beanshell/bsh/2.0b5/fdc2ab6ae8b53e0d4761b296c116df747cd85199/bsh-2.0b5.jar;C:\Users\austenjt\IdeaProjects\run-jmeter-with-plugins-via-build-tools\build\jmeter\lib\ext 
-2015/01/22 20:18:07 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_monitors/2.6/265bc47ed0314049e43daaa891137f34330e9b5c/ApacheJMeter_monitors-2.6.jar 
-2015/01/22 20:18:07 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter/2.6/bc9b65783b3be57e56eb9cb40878faa8ce1889fa/ApacheJMeter-2.6.jar 
-2015/01/22 20:18:07 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.beanshell/bsh-core/2.0b4/495e25a99e29970ffe8ba0b1d551e1d1a9991fc1/bsh-core-2.0b4.jar 
-2015/01/22 20:18:07 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_http/2.6/bf298d76ea425eaee3ef25d763c85e8dcb0bd95/ApacheJMeter_http-2.6.jar 
-2015/01/22 20:18:07 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_junit/2.6/4882859f830f15aa89736289a5a65d37606b6f1/ApacheJMeter_junit-2.6.jar 
-2015/01/22 20:18:07 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_report/2.6/b39aca723efc62ce34a0492c99c8cdb0fa7bc4dc/ApacheJMeter_report-2.6.jar 
-2015/01/22 20:18:07 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_jms/2.6/80129a1cdf2feb638bb89726c5d3b195006a0415/ApacheJMeter_jms-2.6.jar 
-2015/01/22 20:18:07 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_ldap/2.6/8ede339c751d043da419d46c04355958e212c951/ApacheJMeter_ldap-2.6.jar 
-2015/01/22 20:18:07 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_functions/2.6/3a008f616210c01108faec49f5a0bafde5b342c2/ApacheJMeter_functions-2.6.jar 
-2015/01/22 20:18:07 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_jdbc/2.6/d1a7f1c82f48f48bdb3190b66d12f0b7b19c9311/ApacheJMeter_jdbc-2.6.jar 
-2015/01/22 20:18:07 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_java/2.6/70119bfd19f040f8e2b551f074f93a395413688f/ApacheJMeter_java-2.6.jar 
-2015/01/22 20:18:07 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_ftp/2.6/f6047676381d12bd0dd2dd660e9cade9e9f17e5d/ApacheJMeter_ftp-2.6.jar 
-2015/01/22 20:18:07 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_tcp/2.6/22c214d40c26f43e8ded8df44bf9f545908693bc/ApacheJMeter_tcp-2.6.jar 
-2015/01/22 20:18:07 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_mail/2.6/c4b503fe12754b9ee10fcf025923180b2c365afd/ApacheJMeter_mail-2.6.jar 
-2015/01/22 20:18:07 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_core/2.6/16e226df92cd8d53eed4ce952902e6a3c263dfb9/ApacheJMeter_core-2.6.jar 
-2015/01/22 20:18:07 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_components/2.6/f0af15f632a22b1c0bb928394232bd715c4abbf9/ApacheJMeter_components-2.6.jar 
-2015/01/22 20:18:07 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.beanshell/bsh/2.0b5/fdc2ab6ae8b53e0d4761b296c116df747cd85199/bsh-2.0b5.jar 
-2015/01/22 20:18:07 INFO  - jmeter.JMeter: Adding to classpath: C:\Users\austenjt\IdeaProjects\run-jmeter-with-plugins-via-build-tools\build\jmeter\lib\ext 
-2015/01/22 20:18:07 INFO  - jmeter.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties 
-2015/01/22 20:18:08 INFO  - jmeter.gui.action.LookAndFeelCommand: Using look and feel: javax.swing.plaf.metal.MetalLookAndFeel [Metal, CrossPlatform] 
-2015/01/22 20:18:08 INFO  - jmeter.util.BSFTestElement: Registering JMeter version of JavaScript engine as work-round for BSF-22 
-2015/01/22 20:18:08 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: No response parsers defined: text/html only will be scanned for embedded resources 
-2015/01/22 20:18:08 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Reuse SSL session context on subsequent iterations: true 
-2015/01/22 20:18:09 INFO  - jmeter.samplers.SampleResult: Note: Sample TimeStamps are END times 
-2015/01/22 20:18:09 INFO  - jmeter.samplers.SampleResult: sampleresult.default.encoding is set to ISO-8859-1 
-2015/01/22 20:18:09 INFO  - jmeter.samplers.SampleResult: sampleresult.useNanoTime=true 
-2015/01/22 20:18:09 INFO  - jmeter.samplers.SampleResult: sampleresult.nanoThreadSleep=5000 
+2015/01/23 20:25:10 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_US 
+2015/01/23 20:25:10 INFO  - jmeter.JMeter: Copyright (c) 1998-2012 The Apache Software Foundation 
+2015/01/23 20:25:10 INFO  - jmeter.JMeter: Version 2.6 r1237317 
+2015/01/23 20:25:10 INFO  - jmeter.JMeter: java.version=1.7.0_71 
+2015/01/23 20:25:10 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
+2015/01/23 20:25:10 INFO  - jmeter.JMeter: os.name=Windows 8.1 
+2015/01/23 20:25:10 INFO  - jmeter.JMeter: os.arch=amd64 
+2015/01/23 20:25:10 INFO  - jmeter.JMeter: os.version=6.3 
+2015/01/23 20:25:10 INFO  - jmeter.JMeter: file.encoding=Cp1252 
+2015/01/23 20:25:10 INFO  - jmeter.JMeter: Default Locale=English (United States) 
+2015/01/23 20:25:10 INFO  - jmeter.JMeter: JMeter  Locale=English (United States) 
+2015/01/23 20:25:10 INFO  - jmeter.JMeter: JMeterHome=C:\Users\austenjt\IdeaProjects\run-jmeter-with-plugins-via-build-tools\build\jmeter 
+2015/01/23 20:25:10 INFO  - jmeter.JMeter: user.dir  =C:\Users\austenjt\IdeaProjects\run-jmeter-with-plugins-via-build-tools\build\jmeter 
+2015/01/23 20:25:10 INFO  - jmeter.JMeter: PWD       =C:\Users\austenjt\IdeaProjects\run-jmeter-with-plugins-via-build-tools\build\jmeter 
+2015/01/23 20:25:15 INFO  - jmeter.JMeter: IP: 192.168.56.1 Name: THORPC FullName: THORPC 
+2015/01/23 20:25:15 INFO  - jmeter.JMeter: search_paths=/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_monitors/2.6/265bc47ed0314049e43daaa891137f34330e9b5c/ApacheJMeter_monitors-2.6.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter/2.6/bc9b65783b3be57e56eb9cb40878faa8ce1889fa/ApacheJMeter-2.6.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.beanshell/bsh-core/2.0b4/495e25a99e29970ffe8ba0b1d551e1d1a9991fc1/bsh-core-2.0b4.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_http/2.6/bf298d76ea425eaee3ef25d763c85e8dcb0bd95/ApacheJMeter_http-2.6.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_junit/2.6/4882859f830f15aa89736289a5a65d37606b6f1/ApacheJMeter_junit-2.6.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_report/2.6/b39aca723efc62ce34a0492c99c8cdb0fa7bc4dc/ApacheJMeter_report-2.6.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_jms/2.6/80129a1cdf2feb638bb89726c5d3b195006a0415/ApacheJMeter_jms-2.6.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_ldap/2.6/8ede339c751d043da419d46c04355958e212c951/ApacheJMeter_ldap-2.6.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_functions/2.6/3a008f616210c01108faec49f5a0bafde5b342c2/ApacheJMeter_functions-2.6.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_jdbc/2.6/d1a7f1c82f48f48bdb3190b66d12f0b7b19c9311/ApacheJMeter_jdbc-2.6.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_java/2.6/70119bfd19f040f8e2b551f074f93a395413688f/ApacheJMeter_java-2.6.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_ftp/2.6/f6047676381d12bd0dd2dd660e9cade9e9f17e5d/ApacheJMeter_ftp-2.6.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_tcp/2.6/22c214d40c26f43e8ded8df44bf9f545908693bc/ApacheJMeter_tcp-2.6.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_mail/2.6/c4b503fe12754b9ee10fcf025923180b2c365afd/ApacheJMeter_mail-2.6.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_core/2.6/16e226df92cd8d53eed4ce952902e6a3c263dfb9/ApacheJMeter_core-2.6.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_components/2.6/f0af15f632a22b1c0bb928394232bd715c4abbf9/ApacheJMeter_components-2.6.jar;/C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.beanshell/bsh/2.0b5/fdc2ab6ae8b53e0d4761b296c116df747cd85199/bsh-2.0b5.jar;C:\Users\austenjt\IdeaProjects\run-jmeter-with-plugins-via-build-tools\build\jmeter\lib\ext 
+2015/01/23 20:25:15 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_monitors/2.6/265bc47ed0314049e43daaa891137f34330e9b5c/ApacheJMeter_monitors-2.6.jar 
+2015/01/23 20:25:15 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter/2.6/bc9b65783b3be57e56eb9cb40878faa8ce1889fa/ApacheJMeter-2.6.jar 
+2015/01/23 20:25:15 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.beanshell/bsh-core/2.0b4/495e25a99e29970ffe8ba0b1d551e1d1a9991fc1/bsh-core-2.0b4.jar 
+2015/01/23 20:25:15 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_http/2.6/bf298d76ea425eaee3ef25d763c85e8dcb0bd95/ApacheJMeter_http-2.6.jar 
+2015/01/23 20:25:15 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_junit/2.6/4882859f830f15aa89736289a5a65d37606b6f1/ApacheJMeter_junit-2.6.jar 
+2015/01/23 20:25:15 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_report/2.6/b39aca723efc62ce34a0492c99c8cdb0fa7bc4dc/ApacheJMeter_report-2.6.jar 
+2015/01/23 20:25:15 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_jms/2.6/80129a1cdf2feb638bb89726c5d3b195006a0415/ApacheJMeter_jms-2.6.jar 
+2015/01/23 20:25:15 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_ldap/2.6/8ede339c751d043da419d46c04355958e212c951/ApacheJMeter_ldap-2.6.jar 
+2015/01/23 20:25:15 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_functions/2.6/3a008f616210c01108faec49f5a0bafde5b342c2/ApacheJMeter_functions-2.6.jar 
+2015/01/23 20:25:15 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_jdbc/2.6/d1a7f1c82f48f48bdb3190b66d12f0b7b19c9311/ApacheJMeter_jdbc-2.6.jar 
+2015/01/23 20:25:15 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_java/2.6/70119bfd19f040f8e2b551f074f93a395413688f/ApacheJMeter_java-2.6.jar 
+2015/01/23 20:25:15 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_ftp/2.6/f6047676381d12bd0dd2dd660e9cade9e9f17e5d/ApacheJMeter_ftp-2.6.jar 
+2015/01/23 20:25:15 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_tcp/2.6/22c214d40c26f43e8ded8df44bf9f545908693bc/ApacheJMeter_tcp-2.6.jar 
+2015/01/23 20:25:15 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_mail/2.6/c4b503fe12754b9ee10fcf025923180b2c365afd/ApacheJMeter_mail-2.6.jar 
+2015/01/23 20:25:15 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_core/2.6/16e226df92cd8d53eed4ce952902e6a3c263dfb9/ApacheJMeter_core-2.6.jar 
+2015/01/23 20:25:15 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.apache.jmeter/ApacheJMeter_components/2.6/f0af15f632a22b1c0bb928394232bd715c4abbf9/ApacheJMeter_components-2.6.jar 
+2015/01/23 20:25:15 INFO  - jmeter.JMeter: Adding to classpath: /C:/Users/austenjt/.gradle/caches/modules-2/files-2.1/org.beanshell/bsh/2.0b5/fdc2ab6ae8b53e0d4761b296c116df747cd85199/bsh-2.0b5.jar 
+2015/01/23 20:25:15 INFO  - jmeter.JMeter: Adding to classpath: C:\Users\austenjt\IdeaProjects\run-jmeter-with-plugins-via-build-tools\build\jmeter\lib\ext 
+2015/01/23 20:25:15 INFO  - jmeter.services.FileServer: Default base='C:\Users\austenjt\IdeaProjects\run-jmeter-with-plugins-via-build-tools\build\jmeter' 
+2015/01/23 20:25:15 INFO  - jmeter.services.FileServer: Set new base='C:\Users\austenjt\IdeaProjects\run-jmeter-with-plugins-via-build-tools\src\test\jmeter' 
+2015/01/23 20:25:15 INFO  - jmeter.JMeter: Loading file: C:\Users\austenjt\IdeaProjects\run-jmeter-with-plugins-via-build-tools\src\test\jmeter\test2.jmx 
+2015/01/23 20:25:15 INFO  - jmeter.save.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2 
+2015/01/23 20:25:15 INFO  - jmeter.save.SaveService: Using SaveService properties file encoding UTF-8 
+2015/01/23 20:25:15 INFO  - jmeter.save.SaveService: Using SaveService properties file version 1050447 
+2015/01/23 20:25:15 INFO  - jmeter.save.SaveService: Using SaveService properties version 2.1 
+2015/01/23 20:25:15 WARN  - jmeter.save.SaveService: Bad _version - expected 2.2, found 2.1. 
+2015/01/23 20:25:15 INFO  - jmeter.save.SaveService: All converter versions present and correct 
+2015/01/23 20:25:15 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: No response parsers defined: text/html only will be scanned for embedded resources 
+2015/01/23 20:25:15 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Reuse SSL session context on subsequent iterations: true 
+2015/01/23 20:25:15 INFO  - jmeter.engine.StandardJMeterEngine: Listeners will be started after enabling running version 
+2015/01/23 20:25:15 INFO  - jmeter.engine.StandardJMeterEngine: To revert to the earlier behaviour, define jmeterengine.startlistenerslater=false 
+2015/01/23 20:25:15 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
+2015/01/23 20:25:15 INFO  - jmeter.JMeter: Running test (1422073515767) 
+2015/01/23 20:25:15 INFO  - jmeter.engine.StandardJMeterEngine: Starting 1 threads for group Thread Group. 
+2015/01/23 20:25:15 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2015/01/23 20:25:15 INFO  - jmeter.threads.JMeterThread: jmeterthread.startearlier=true (see jmeter.properties) 
+2015/01/23 20:25:15 INFO  - jmeter.threads.JMeterThread: Running PostProcessors in forward order 
+2015/01/23 20:25:15 INFO  - jmeter.engine.StandardJMeterEngine: All threads have been started 
+2015/01/23 20:25:15 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-1 
+2015/01/23 20:25:15 INFO  - jmeter.protocol.http.sampler.HTTPHCAbstractImpl: Local host = THORPC 
+2015/01/23 20:25:15 INFO  - jmeter.protocol.http.sampler.HTTPHC4Impl: HTTP request retry count = 1 
+2015/01/23 20:25:15 INFO  - jmeter.protocol.http.sampler.HTTPHC4Impl: Setting up HTTPS TrustAll scheme 
+2015/01/23 20:25:15 INFO  - jmeter.samplers.SampleResult: Note: Sample TimeStamps are END times 
+2015/01/23 20:25:15 INFO  - jmeter.samplers.SampleResult: sampleresult.default.encoding is set to ISO-8859-1 
+2015/01/23 20:25:15 INFO  - jmeter.samplers.SampleResult: sampleresult.useNanoTime=true 
+2015/01/23 20:25:15 INFO  - jmeter.samplers.SampleResult: sampleresult.nanoThreadSleep=5000 
+2015/01/23 20:25:18 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-1 
+2015/01/23 20:25:18 INFO  - jmeter.engine.StandardJMeterEngine: Ending thread Thread Group 1-1 
+2015/01/23 20:25:18 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
+2015/01/23 20:25:18 INFO  - jmeter.engine.StandardJMeterEngine: Test has ended on host null 

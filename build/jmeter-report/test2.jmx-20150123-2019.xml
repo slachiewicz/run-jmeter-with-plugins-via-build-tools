@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="1391" lt="261" ts="1422073204565" s="true" lb="HTTP Request - clickability.com" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="38232">
+  <httpSample t="261" lt="261" ts="1422073203435" s="true" lb="http://clickability.com/" rc="301" rm="Moved Permanently" tn="" dt="text" by="359"/>
+  <httpSample t="1125" lt="997" ts="1422073204565" s="true" lb="http://www.clickability.com/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="39071"/>
+</httpSample>
+<httpSample t="982" lt="732" ts="1422073205555" s="true" lb="HTTP Request - http://www.aboutcookies.org/DEFAULT.ASPX?page=1" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="22654"/>
+<httpSample t="445" lt="149" ts="1422073206003" s="true" lb="HTTP Request - doubleclick.net" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="12697">
+  <httpSample t="149" lt="149" ts="1422073205707" s="true" lb="http://doubleclick.net/" rc="301" rm="Moved Permanently" tn="" dt="text" by="360"/>
+  <httpSample t="149" lt="149" ts="1422073205859" s="true" lb="http://www.google.com/doubleclick" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="605"/>
+  <httpSample t="144" lt="83" ts="1422073206003" s="true" lb="http://www.google.com/doubleclick/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="13100"/>
+</httpSample>
+<sample t="1" lt="0" ts="1422073206014" s="true" lb="Debug Sampler" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="309"/>
+
+</testResults>
