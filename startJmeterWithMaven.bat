@@ -6,6 +6,6 @@ IF NOT DEFINED M2_HOME ECHO It appears you are missing the Maven installation on
 IF NOT DEFINED JAVA_HOME ECHO You need to define JAVA_HOME on your system.
 
 call setJavaHome.bat
-mvn.bat jmeter:gui -X
+mvn.bat jmeter:gui
 
 pause
